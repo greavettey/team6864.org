@@ -1,0 +1,26 @@
+.featured-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 90vh;
+  margin-bottom: 100px;
+}
+
+.featured-container h1 {
+  margin: 10vh 0px;
+  font-size: 40px;
+}
+
+.featured-container .btn-container {
+  display: flex;
+  justify-content: space-between;
+  width: 45vw;
+}
+
+.featured-container .btn-container button {
+  height: 100px;
+  width: 100px;
+  border: none;
+  border-radius: 50px;
+  background-color: rgb(82, 0, 0);
+}
