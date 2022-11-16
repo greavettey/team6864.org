@@ -1,0 +1,29 @@
+.alt-header-container{
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+
+}
+
+.alt-header-container .btn-contaienr{
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    margin-right: 20px;
+}
+
+.alt-header-container .btn-contaienr button{
+    height: 20px;
+    width: 80px;
+}
+
+
+img{
+    margin: 0px;
+    padding: 0px;
+}
