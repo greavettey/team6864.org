@@ -1,0 +1,43 @@
+.AltLandingPage-container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.AltLandingPage-container .bg-image {
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  z-index: -1;
+  filter: brightness(80%);
+}
+
+.AltLandingPage-container .txt-container h1 {
+  font-size: 50px;
+}
+
+.AltLandingPage-container .txt-container span {
+  color: rgb(124, 0, 0);
+}
+
+.AltLandingPage-container .btn-container {
+  margin-bottom: 50px;
+}
+
+.AltLandingPage-container .btn-container button {
+  margin: 20px 40px;
+  height: 40px;
+  width: 150px;
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+  color: rgb(124, 0, 0);
+}
+
+.AltLandingPage-container .btn-container .support-btn {
+  background-color: rgb(124, 0, 0);
+  color: white;
+}
