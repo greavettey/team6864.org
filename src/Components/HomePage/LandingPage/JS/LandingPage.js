@@ -5,7 +5,7 @@ const LandingPage = () => {
   return (
     <div>
       <img
-        src={require("../../Images/Test-bg-image.jfif")}
+        src={require("../../../Images/Test-bg-image.jfif")}
         alt=""
         className="bg-image"
       />

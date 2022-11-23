@@ -1,0 +1,25 @@
+.about-contaienr{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.about-contaienr h1{
+    padding-top: 30px;
+    padding-bottom: 60px;
+    font-size: 36px;
+}
+
+.about-contaienr .text-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: lightblue;
+    width: 500px;
+}
+
+.about-contaienr .text-container p{
+    width: 200px;
+    background-color: lightcoral;
+}

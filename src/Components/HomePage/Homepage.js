@@ -1,7 +1,7 @@
 import React from "react";
-import Featured from "./Featured/Featured";
-import AltLandingPage from "./LandingPage/AltLandingPage";
-import Robots from "./OurRobots/Robots";
+import Featured from "./Featured/JS/Featured";
+import AltLandingPage from "./LandingPage/JS/AltLandingPage";
+import Robots from "./OurRobots/JS/Robots";
 const Homepage = () => {
   return (
     <section className="home-page-container">

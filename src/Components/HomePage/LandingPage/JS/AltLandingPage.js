@@ -1,11 +1,11 @@
 import React from "react";
-import "./AltLandingPage.css";
+import "../Styles/AltLandingPage.css";
 
 const AltLandingPage = () => {
   return (
     <section className="AltLandingPage-container">
       <img
-        src={require("../../../Images/Test-bg-image.jfif")}
+        src={require("../../../../Images/Test-bg-image.jfif")}
         alt=""
         className="bg-image"
       />

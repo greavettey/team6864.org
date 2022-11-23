@@ -1,5 +1,5 @@
 import React from "react";
-import "./Featured.css";
+import "../Styles/Featured.css";
 import { Routes, Route, useNavigate } from "react-router-dom";
 
 const Featured = () => {
