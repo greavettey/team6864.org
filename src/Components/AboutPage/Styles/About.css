@@ -4,6 +4,7 @@
     align-items: center;
     width: 100vw;
     height: 100vh;
+    margin-top: 100px;
 }
 
 .about-contaienr h1{
@@ -15,11 +16,15 @@
 .about-contaienr .text-container{
     display: flex;
     justify-content: space-between;
-    background-color: lightblue;
-    width: 500px;
+    width: 100vw;
+    padding: 0px 10vw;
+    margin-bottom: 40px;
+}
+
+.about-contaienr .text-container h2{
+    margin-bottom: 15px;
 }
 
 .about-contaienr .text-container p{
-    width: 200px;
-    background-color: lightcoral;
+    width: 30vw;
 }

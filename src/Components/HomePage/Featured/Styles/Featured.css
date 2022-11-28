@@ -2,7 +2,6 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-bottom: 100px;
 }
 
 .featured-container h1 {
@@ -22,4 +21,12 @@
   border: none;
   border-radius: 50px;
   background-color: rgb(82, 0, 0);
+}
+
+.featured-container .divider{
+  height: 0px;
+  width: 80vw;
+  border: 1px solid;
+  border-color: rgb(184, 184, 184);
+  margin: 20vh 0px;
 }

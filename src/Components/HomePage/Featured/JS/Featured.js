@@ -17,6 +17,8 @@ const Featured = () => {
         <button></button>
         <button></button>
       </div>
+
+      <div className="divider"></div>
     </div>
   );
 };
