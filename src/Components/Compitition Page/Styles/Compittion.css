@@ -25,7 +25,7 @@
 
 .compitition-container .comp-card-container .card {
     margin: 0vw 10vw;
-    width: 400px;
+    width: 30vw;
     display: flex;
     flex-direction: column;
 }
@@ -35,6 +35,10 @@
 }
 
 .compitition-container .comp-card-container .card img{
-    width: 400px;
+    width: 30vw;
     margin: 5px 0px;
+}
+
+.compitition-container .comp-card-container .card p{
+    width: 30vw;
 }
