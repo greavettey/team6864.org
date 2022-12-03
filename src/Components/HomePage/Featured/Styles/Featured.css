@@ -15,13 +15,23 @@
   width: 45vw;
 }
 
-.featured-container .btn-container button {
+.featured-container .btn-container .btn-background {
   height: 100px;
   width: 100px;
   border: none;
   border-radius: 50px;
   background-color: rgb(82, 0, 0);
+
+  /* display */
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
+.featured-container .btn-container .btn-background img{
+  width: 50px;
+}
+
 
 .featured-container .divider{
   height: 0px;

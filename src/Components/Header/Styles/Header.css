@@ -45,4 +45,12 @@
     font-weight: 500;
     color: rgb(137, 0, 0);
 
+    /* transition */
+    transition: all 0.5s;
+
+}
+
+.header-contianer button:hover{
+    background-color: rgb(137, 0, 0);
+    color: white;
 }
