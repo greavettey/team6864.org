@@ -8,7 +8,7 @@ const Sponsors = () => {
       <h1>Our Sponsors</h1>
 
       <div className="sponsor-body-container">
-        <img src={require("../../../Images/Robotics test image.jpg")} />
+        <img src={require("../../../Images/Robotics test image.jpg")} alt="" />
         <p>{<LoremIpsum />}</p>
       </div>
     </div>
