@@ -14,7 +14,7 @@ jobs:
 
     - name: Build
       uses: actions/setup-node@v3
-       with:
+      with:
           node-version: '12.x'
     - run: npm run build
 
