@@ -9,6 +9,11 @@ const AltLandingPage = () => {
         alt=""
         className="bg-image"
       />
+      <img
+        src={require("../../../Images/Gryphtech logo.png")}
+        alt=""
+        onClick={() => nav("/")}
+      />
       <div className="txt-container">
         <h1>
           We Are <span>Gryphtech</span> Robotics
