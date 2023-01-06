@@ -1,0 +1,50 @@
+.support-us-container{
+    margin-top: 100px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.support-us-container form{
+    display: flex;
+    flex-direction: column;
+
+    width: 50vw;
+    height: 50vh;
+
+}
+
+.support-us-container form h2{
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+.support-us-container form label{
+    font-size: 16px;
+    font-weight: 500;
+
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.support-us-container form input{
+    border: none;
+    height: 30px;
+    width: 300px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+.support-us-container form input{
+    font-size: 14px;
+}
+
+.support-us-container form .submit-btn{
+    margin-top: 30px;
+    margin-left: calc(50% - 100px);
+    width: 100px;
+    padding-right: 5px;
+}
