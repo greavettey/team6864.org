@@ -1,6 +1,5 @@
 import React from "react";
 import "../Styles/Compittion.css";
-import LoremIpsum from "react-lorem-ipsum";
 
 const Compitition = () => {
   return (
