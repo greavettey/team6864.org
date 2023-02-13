@@ -9,7 +9,10 @@ const OurRobots = () => {
 
       <div className="card-container">
         <div className="card">
-          <img src={require("../../../Images/Unknown.jpeg")} alt="" />
+          <img
+            src={require("../../../Images/real images/RobiWan.PNG")}
+            alt=""
+          />
 
           <div className="txt-container">
             <h2>Robi Wan Kanobi</h2>
@@ -36,7 +39,7 @@ const OurRobots = () => {
         </div>
 
         <div className="card">
-          <img src={require("../../../Images/Unknown.jpeg")} alt="" />
+          <img src={require("../../../Images/real images/Grito.PNG")} alt="" />
 
           <div className="txt-container">
             <h2>Grito</h2>

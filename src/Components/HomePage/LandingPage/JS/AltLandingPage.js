@@ -5,7 +5,7 @@ const AltLandingPage = () => {
   return (
     <section className="AltLandingPage-container">
       <img
-        src={require("../../../../Images/Test-bg-image.jfif")}
+        src={require("../../../../Images/real images/Team.JPG")}
         alt=""
         className="bg-image"
       />

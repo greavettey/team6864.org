@@ -17,6 +17,7 @@
 
 .AltLandingPage-container .txt-container h1 {
   font-size: 50px;
+  color: white;
 }
 
 .AltLandingPage-container .txt-container span {
@@ -38,24 +39,22 @@
   color: rgb(124, 0, 0);
   background-color: white;
 
-    /* transition */
+  /* transition */
 
-    transition: all 0.5s;
+  transition: all 0.5s;
 }
 
 .AltLandingPage-container .btn-container .support-btn {
   background-color: rgb(124, 0, 0);
   color: white;
-
-
 }
 
-.AltLandingPage-container .btn-container button:hover{
+.AltLandingPage-container .btn-container button:hover {
   background-color: rgb(124, 0, 0);
   color: white;
 }
 
-.AltLandingPage-container .btn-container .support-btn:hover{
+.AltLandingPage-container .btn-container .support-btn:hover {
   background-color: white;
-  color: rgb(124,0,0);
+  color: rgb(124, 0, 0);
 }
