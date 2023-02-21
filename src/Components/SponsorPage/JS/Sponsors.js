@@ -1,6 +1,5 @@
 import React from "react";
 import "../Styles/Sponsors.css";
-import LoremIpsum from "react-lorem-ipsum";
 
 const Sponsors = () => {
   return (
